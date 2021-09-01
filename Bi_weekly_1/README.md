@@ -10,3 +10,5 @@ For the our preliminary exercises, we will be using the MNIST data-set. This see
 
 ### EDA_Character_Data.ipynb
 In this module, we explore the MNIST data-set, which we will be using for some preliminary exploration of image classification techniques, particularly convolutional neural networks. 
+
+Here is a paper of particular interest that we viewed in class: https://arxiv.org/pdf/1202.2745.pdf
